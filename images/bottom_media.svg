@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="media_repeat_Background_Mask_" data-name="media / repeat (Background/Mask)" width="20" height="20" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="media_repeat" data-name="media / repeat" opacity="0.5">
+    <g id="media_repeat-2" data-name="media / repeat">
+      <rect id="media_repeat_Background_Mask_2" data-name="media / repeat (Background/Mask)" width="20" height="20" fill="none"/>
+      <g id="media_repeat-3" data-name="media / repeat" clip-path="url(#clip-path)">
+        <path id="media_repeat-4" data-name="media / repeat" d="M3.334,16.667l0,0L0,13.333,3.334,10v2.5h8.333V9.167h1.667v4.167a.834.834,0,0,1-.833.833H3.334v2.5Zm0-9.167H1.667V3.334A.834.834,0,0,1,2.5,2.5h9.167V0L15,3.334,11.667,6.666v-2.5H3.334V7.5Z" transform="translate(2.5 1.667)" fill="#737880"/>
+      </g>
+    </g>
+  </g>
+</svg>

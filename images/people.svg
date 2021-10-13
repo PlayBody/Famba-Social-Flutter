@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="28px" viewBox="0 0 48 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>people</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3_Profile-Owner" transform="translate(-260.000000, -652.000000)" stroke="#737880">
+            <g id="people" transform="translate(262.000000, 654.000000)">
+                <path d="M0,24 C0,19.5 6,19.5 9,16.5 C10.5,15 6,15 6,7.5 C6,2.5005 7.9995,0 12,0 C16.0005,0 18,2.5005 18,7.5 C18,15 13.5,15 15,16.5 C18,19.5 24,19.5 24,24 M23.5836228,19.4533368 C24.5681102,19.096532 25.3749724,18.7665988 26.004209,18.463537 C27.105552,17.9330926 28.1681148,17.3318852 29,16.5 C30.5,15 26,15 26,7.5 C26,2.5005 27.9995,0 32,0 C36.0005,0 38,2.5005 38,7.5 C38,15 33.5,15 35,16.5 C38,19.5 44,19.5 44,24" id="Shape" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M22,20 C22.7325482,19.7526944 23.2604224,19.5704732 23.5836228,19.4533368" id="Path" stroke-width="2" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

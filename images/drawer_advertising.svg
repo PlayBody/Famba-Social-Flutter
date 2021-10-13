@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="chart_trending_up_Background_Mask_" data-name="chart / trending_up (Background/Mask)" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="chart_trending_up" data-name="chart / trending_up" opacity="0.783">
+    <g id="chart_trending_up-2" data-name="chart / trending_up">
+      <rect id="chart_trending_up_Background_Mask_2" data-name="chart / trending_up (Background/Mask)" width="24" height="24" fill="none"/>
+      <g id="chart_trending_up-3" data-name="chart / trending_up" clip-path="url(#clip-path)">
+        <path id="chart_trending_up-4" data-name="chart / trending_up" d="M10.707,8.414a1,1,0,0,0,.707.293H12a1,1,0,0,0,.707-.293l4.707-4.707L19.707,6V0h-6L16,2.293,11.707,6.586l-3-3A1,1,0,0,0,8,3.293H7.414a1,1,0,0,0-.707.293L0,10.293l1.414,1.414L7.707,5.414Z" transform="translate(2.293 5)" fill="#2e3a59" opacity="0.78"/>
+      </g>
+    </g>
+  </g>
+</svg>

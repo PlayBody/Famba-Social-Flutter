@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "343267882113",
+    "project_id": "colibri-f9bfc",
+    "storage_bucket": "colibri-f9bfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343267882113:android:e99f48cc64b12725f90980",
+        "android_client_info": {
+          "package_name": "com.skycap.colibri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343267882113-g7vhns7a36bl4lq6auluvvmmhnbm0r56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skycap.colibri",
+            "certificate_hash": "a4331dadeaf3317dfd752d73fee8f0f01dd15cfd"
+          }
+        },
+        {
+          "client_id": "343267882113-9sltrs20pd21kive4q74lot4451lah80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCczyNxD160FSUo8rS7MlGnoj7B5A1-FYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343267882113-9sltrs20pd21kive4q74lot4451lah80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

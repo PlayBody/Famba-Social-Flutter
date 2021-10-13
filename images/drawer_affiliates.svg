@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="user_user_plus_Background_Mask_" data-name="user / user_plus (Background/Mask)" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="user_user_plus" data-name="user / user_plus" opacity="0.78">
+    <g id="user_user_plus-2" data-name="user / user_plus">
+      <rect id="user_user_plus_Background_Mask_2" data-name="user / user_plus (Background/Mask)" width="24" height="24" fill="none"/>
+      <g id="user_user_plus-3" data-name="user / user_plus" clip-path="url(#clip-path)">
+        <path id="user_user_plus-4" data-name="user / user_plus" d="M2,15H0a6,6,0,0,1,12,0H10a4,4,0,1,0-8,0Zm15-3H15V9H12V7h3V4h2V7h3V9H17v3ZM6,8a4,4,0,1,1,4-4A4.005,4.005,0,0,1,6,8ZM6,2A2,2,0,1,0,8,4.09l0,.4V4A2,2,0,0,0,6,2Z" transform="translate(2 4)" fill="#2e3a59" opacity="0.784"/>
+      </g>
+    </g>
+  </g>
+</svg>

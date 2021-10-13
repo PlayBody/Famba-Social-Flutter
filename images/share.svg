@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="40px" viewBox="0 0 42 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>share</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="3c_Likes" transform="translate(-966.000000, -2160.000000)" stroke="#737880" stroke-width="3">
+            <g id="share" transform="translate(968.000000, 2163.000000)">
+                <line x1="19" y1="24" x2="19" y2="2" id="Path"></line>
+                <polyline id="Path" points="11 8 19.5 0 28 8"></polyline>
+                <polyline id="Path" points="0 22 0 35 38 35 38 22"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

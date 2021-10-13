@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="basic_external_link_Background_Mask_" data-name="basic / external_link (Background/Mask)" width="20" height="20" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="basic_external_link" data-name="basic / external_link" opacity="0.5">
+    <g id="basic_external_link-2" data-name="basic / external_link">
+      <rect id="basic_external_link_Background_Mask_2" data-name="basic / external_link (Background/Mask)" width="20" height="20" fill="none"/>
+      <g id="basic_external_link-3" data-name="basic / external_link" clip-path="url(#clip-path)">
+        <path id="basic_external_link-4" data-name="basic / external_link" d="M10.833,13.333H1.667A1.669,1.669,0,0,1,0,11.667V2.5A1.669,1.669,0,0,1,1.667.833H5V2.5H1.667v9.166h9.167V8.333H12.5v3.334A1.669,1.669,0,0,1,10.833,13.333ZM6.421,8.089h0L5.242,6.911l5.244-5.244H7.5V0h5.833V5.833H11.664V2.845L6.421,8.088Z" transform="translate(3.335 3.333)" fill="#737880"/>
+      </g>
+    </g>
+  </g>
+</svg>

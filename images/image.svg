@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>image</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4a_Home" transform="translate(-198.000000, -481.000000)" stroke="#0A74EE" stroke-width="4">
+            <g id="image" transform="translate(200.000000, 483.000000)">
+                <rect id="Rectangle" stroke-linecap="square" x="0" y="0" width="48" height="48"></rect>
+                <polyline id="Path" stroke-linecap="round" points="0 29.5454545 10.6666667 19 40 48"></polyline>
+                <circle id="Oval" stroke-linecap="square" cx="28.5" cy="12.5" r="6.5"></circle>
+                <line x1="28" y1="36" x2="48" y2="16" id="Path" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

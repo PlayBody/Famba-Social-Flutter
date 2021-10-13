@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>343267882113-mvb0iiirinapna57cm20udl8gvdg2qt7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.343267882113-mvb0iiirinapna57cm20udl8gvdg2qt7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>343267882113-g7vhns7a36bl4lq6auluvvmmhnbm0r56.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDw6YFA9qTuI2zZm1vbI5whyZQ6yiZjV3s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>343267882113</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.skycap.colibriApp</string>
+	<key>PROJECT_ID</key>
+	<string>colibri-f9bfc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>colibri-f9bfc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:343267882113:ios:2e5a1398263f9219f90980</string>
+</dict>
+</plist>

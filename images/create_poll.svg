@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.192" height="23.808" viewBox="0 0 22.192 23.808">
+  <g id="poll" transform="translate(0.192 1)">
+    <path id="Path" d="M.808,0V21.808" fill="#d8d8d8" stroke="#579ad1" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-2" data-name="Path" d="M0,0H14.538V5.654H0" transform="translate(0.808 2.423)" fill="none" stroke="#579ad1" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-3" data-name="Path" d="M0,0H20.192V5.654H0" transform="translate(0.808 8.077)" fill="none" stroke="#579ad1" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-4" data-name="Path" d="M0,0H10.5V5.654H0" transform="translate(0.808 13.731)" fill="none" stroke="#579ad1" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

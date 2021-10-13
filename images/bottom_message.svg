@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="edit_comment_Background_Mask_" data-name="edit / comment (Background/Mask)" width="20" height="20" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="edit_comment" data-name="edit / comment" opacity="0.503">
+    <g id="edit_comment-2" data-name="edit / comment">
+      <rect id="edit_comment_Background_Mask_2" data-name="edit / comment (Background/Mask)" width="20" height="20" fill="none"/>
+      <g id="edit_comment-3" data-name="edit / comment" clip-path="url(#clip-path)">
+        <path id="edit_comment-4" data-name="edit / comment" d="M0,15V1.667A1.669,1.669,0,0,1,1.667,0H13.333A1.669,1.669,0,0,1,15,1.667V10a1.669,1.669,0,0,1-1.667,1.667H5A1.681,1.681,0,0,0,4,12L0,15ZM1.667,1.667v10l1.777-1.334a1.682,1.682,0,0,1,1-.333h8.888V1.667Z" transform="translate(2.5 2.5)" fill="#737880"/>
+      </g>
+    </g>
+  </g>
+</svg>

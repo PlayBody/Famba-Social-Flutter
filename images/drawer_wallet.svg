@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="basic_credit_card_Background_Mask_" data-name="basic / credit_card (Background/Mask)" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="basic_credit_card" data-name="basic / credit_card" opacity="0.779">
+    <g id="basic_credit_card-2" data-name="basic / credit_card">
+      <rect id="basic_credit_card_Background_Mask_2" data-name="basic / credit_card (Background/Mask)" width="24" height="24" fill="none"/>
+      <g id="basic_credit_card-3" data-name="basic / credit_card" clip-path="url(#clip-path)">
+        <path id="basic_credit_card-4" data-name="basic / credit_card" d="M18,16H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H18a2,2,0,0,1,2,2V14A2,2,0,0,1,18,16ZM2,8v6H18V8ZM2,2V4H18V2Zm9,10H4V10h7v2Z" transform="translate(2 4)" fill="#2e3a59"/>
+      </g>
+    </g>
+  </g>
+</svg>

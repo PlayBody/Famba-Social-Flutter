@@ -1,0 +1,15 @@
+analyzer:
+  errors:
+    missing_required_param: error
+
+linter:
+  rules:
+    invalid_use_of_visible_for_testing_member: false
+    invalid_use_of_protected_member: false
+#    - prefer_const_constructors
+#    - prefer_const_constructors_in_immutables
+#    - prefer_conditional_assignment
+#    - prefer_final_locals
+#    - unnecessary_await_in_return
+#    - sort_constructors_first
+#    - prefer_expression_function_bodies

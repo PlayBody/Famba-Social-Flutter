@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="46px" viewBox="0 0 48 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>repeat</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="4a_Home" transform="translate(-517.000000, -1478.000000)" stroke="#737880">
+            <g id="repeat" transform="translate(519.000000, 1480.000000)">
+                <path d="M0,25 L0,20.4330029 C0,13.0141569 5.93811474,7 13.2631579,7 L42,7 L42,7" id="Path" stroke-width="3"></path>
+                <polyline id="Path" stroke-width="2" points="37 0 44 6.5 37 13"></polyline>
+                <path d="M44,18 L44,22.5670973 C44,29.9858656 38.0618632,36 30.7368421,36 L2,36 L2,36" id="Path" stroke-width="3"></path>
+                <polyline id="Path" stroke-width="2" points="7 42 0 35.5 7 29"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
