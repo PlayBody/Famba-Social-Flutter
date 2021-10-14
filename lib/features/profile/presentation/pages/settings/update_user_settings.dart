@@ -50,10 +50,7 @@ class _UpdateUserProfileState extends State<UpdateUserProfile> {
       firstDate: DateTime(2010),
       lastDate: DateTime(2025),
     );
-    if (selected != null &&
-        selected !=
-            DateTime.parse(
-                userSettingCubit.birthdayValidator.textController.text))
+    if (selected != null)
       setState(() {
         userSettingCubit.birthdayValidator.textController.text =
             DateFormat('yyyy-MM-dd').format(selected);

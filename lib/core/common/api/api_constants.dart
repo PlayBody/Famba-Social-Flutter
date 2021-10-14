@@ -3,8 +3,6 @@ import '../static_data/all_countries.dart';
 class ApiConstants {
   static const String baseUrl = "https://ipfamba.com//mobile_api/";
   static const String baseMediaUrl = "https://ipfamba.com/";
-  //static const String baseUrl = "http://192.168.111.63/mobile_api/";
-  //static const String baseMediaUrl = "http://192.168.111.63/";
   static const String loginEndPoint = "login";
   static const String signUpEndPoint = "signup";
   static const String resetPassword = "resetpassword";

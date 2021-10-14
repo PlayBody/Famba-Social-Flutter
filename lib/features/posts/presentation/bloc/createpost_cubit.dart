@@ -179,6 +179,8 @@ class CreatePostCubit extends Cubit<CommonUIState> {
     print(model);
 
     var either = await createPostUseCase(model);
+    print('ssssssssssssssssssssssssssssssssssssssssssssssssssssssssss');
+    print(either);
     either.fold((l) {
       changePublishButton(true);
       emit(CommonUIState.error(l.errorMessage));
